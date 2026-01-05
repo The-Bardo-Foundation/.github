@@ -1,1 +1,1 @@
-Established in 2021 and inspired by a life-changing event, The Bardo Foundation is a non-profit organization dedicated to accelerating osteosarcoma treatment, finding a cure, and improving the lives of families affected by it.
+Here we will write more about The Bardo Foundation and what we do
