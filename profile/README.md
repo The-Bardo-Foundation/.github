@@ -10,15 +10,3 @@ The Bardo Foundation is a non-profit organization dedicated to improving the liv
 Founded in 2021, the foundation focuses on driving research, supporting families, and raising awareness worldwide.
 
 ---
-
-## Get involved
-
-There are many ways to contribute to our mission:
-
-- Become a monthly donor (“Bardo Champion”)  
-- Organize or participate in fundraising campaigns  
-- Partner with us as a researcher, clinician, or institution  
-- Volunteer your skills (communication, design, data, events, etc.)
-
-To learn more or get started, visit the website:  
-👉 https://www.TheBardoFoundation.org
