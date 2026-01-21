@@ -11,15 +11,6 @@ Founded in 2021, the foundation focuses on driving research, supporting families
 
 ---
 
-## What The Bardo Foundation does
-
-- Fund innovative Osteosarcoma research to accelerate better treatments and outcomes.  
-- Support collaboration and knowledge sharing between leading medical experts and research centers. 
-- Provide practical assistance to children and families during treatment and recovery.
-- Expand access to pediatric cancer care in underserved regions through partnerships and targeted funding.
-
----
-
 ## Get involved
 
 There are many ways to contribute to our mission:
@@ -31,10 +22,3 @@ There are many ways to contribute to our mission:
 
 To learn more or get started, visit the website:  
 👉 https://www.TheBardoFoundation.org
-
----
-
-## Connect
-
-- Website: https://www.TheBardoFoundation.org 
-- LinkedIn: https://www.linkedin.com/company/bardofoundation
